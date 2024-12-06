@@ -72,7 +72,7 @@ In this system, separate gateway nodes act as decryptors. Upon request, they ver
 
   
 
--  **Layer 2 (L2) - Rollup:** Acts as the parent chain, utilizing optimized rollup technology for efficient execution. It batches and processes transactions off-chain, offering high throughput and low fees while maintaining Ethereum's security model.
+-  **Layer 2 (L2) - Rollup:** Acts as the parent chain, utilizing optimized rollup technology for efficient execution. It batches and processes transactions off-chain , offering high throughput and low fees while maintaining Ethereum's security model.
 
 -  **Layer 3 (L3) - Cypher with FHEVM Integration**: Built on Rollup, Cypher introduces FHE capabilities into smart contracts, enabling secure and private computations on encrypted data.
 
